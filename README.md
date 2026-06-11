@@ -4,7 +4,7 @@ Welcome!
 
 **Current Version:** 1.1.0
 
-##Features
+Features
 
 * **Add Tasks:** Quick and easy creation of new todo items.
 * **View Tasks:** Displays your complete numbered list of tasks dynamically.
@@ -15,7 +15,7 @@ Welcome!
 * **Data Persistence:** Automatically saves all your tasks into a local `tasks.txt` file on exit and automatically restores them when you reboot the app.
 * **Robust Input Validation:** Advanced custom error handling ensures the application never crashes, even if letters or invalid numbers are typed by mistake.
 
-##Clean Architecture & Technologies Used
+Clean Architecture & Technologies Used
 
 * **Language:** Java
 * **Data Structures:** `ArrayList` for dynamic memory and task storage.
@@ -24,7 +24,7 @@ Welcome!
 * **Exception Handling:** Custom `try-catch` blocks and validation methods to prevent system failures.
 * **String Manipulation:** Advanced use of `.replaceFirst()` with regex pattern quoting for bug-free partial updates.
 
-##How to Run and Use
+How to Run and Use
 
 1. Make sure you have **Java JDK** installed on your machine.
 2. Clone or download the `TodoApp.java` file.
